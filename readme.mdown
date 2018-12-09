@@ -1,0 +1,8 @@
+## Pet lost&found weibo scrapper
+
+This project attempts to scrap the weibo content that relates to pet lost. The content is saved in data folder containing the image and text file. 
+
+### To-do:
+1. test the weibo terminator or other weibo scrapper
+2. save the file in database e.g. mongodb 
+
